@@ -127,7 +127,7 @@ const products = [
 ];
 
 // İnstagram səhifənizin linkini bura daxil edin
-const instagramLink = "https://www.instagram.com/YOUR_SILVER_USERNAME_HERE/"; 
+const instagramLink = "https://www.instagram.com/silverforbaku?igsh=MXcxY29ha3c3d3NrNQ%3D%3D&utm_source=qr"; 
 
 // WhatsApp nömrənizin linkini bura daxil edin
-const whatsappLink = "https://wa.me/994XXYYYYYYY";
+const whatsappLink = "http://wa.me/994518320315";
