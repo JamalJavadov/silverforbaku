@@ -14,7 +14,7 @@ document.getElementById('instagram-contact-link').href = instagramLink;
 document.getElementById('whatsapp-contact-link').href = whatsappLink;
 modalOrderButton.href = instagramLink; 
 
-const productsPerPage = 9;
+const productsPerPage = 10;
 let currentPage = 1;
 let filteredProducts = [...products];
 
