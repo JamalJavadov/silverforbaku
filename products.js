@@ -157,7 +157,96 @@ const products = [
     material: "Gümüş 925",
     tags: ["dəst","qadın","sırğa","üzük","sep"]
   },
-  
+        {
+     image: "images/27.png",
+    price: "26 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+          {
+     image: "images/28.png",
+    price: "26 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","üzük"]
+  },
+          {
+     image: "images/29.png",
+    price: "26 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+          {
+     image: "images/30.png",
+    price: "75 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","dəst","üzük","sırğa","sep","bilərzik" ]
+  },
+            {
+     image: "images/31.png",
+    price: "26 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/32.png",
+    price: "65 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","bilərzik"]
+  },
+  {
+     image: "images/33.png",
+    price: "24 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/34.png",
+    price: "28 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/35.png",
+    price: "32 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/36.png",
+    price: "19 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","bilərzik"]
+  },
+  {
+     image: "images/37.png",
+    price: "24 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/38.png",
+    price: "33 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","üzük"]
+  },
+  {
+     image: "images/39.png",
+    price: "26 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sırğa"]
+  },
+  {
+     image: "images/40.png",
+    price: "25 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
+  {
+     image: "images/41.png",
+    price: "25 AZN",
+    material: "Gümüş 925",
+    tags: ["qadın","sep"]
+  },
   // Öz məhsullarınızı bu formatda bura əlavə edin.
   // Şəkillərinizi /images qovluğuna yerləşdirməyi unutmayın.
 ];
